@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @champagneharsha aka Harshal
 - 👀 I’m interested in Cybersecurity and Machine Learning
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning with the help from docs.github.com
 - 📫 How to reach me @mharshals4130@gmail.com
 
 <!---

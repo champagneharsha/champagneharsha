@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @champagneharsha aka Harshal
+- 👋 Hi, I’m @champagneharsha aka Harsha
 - 👀 I’m interested in exploring something new everyday
 - 🌱 I’m currently learning with the help from docs.github.com
 - 📫 How to reach me @mharshals4130@gmail.com
